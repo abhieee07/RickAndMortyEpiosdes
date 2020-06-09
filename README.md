@@ -1,2 +1,0 @@
-# RickAndMortyEpiosdes
-Created with CodeSandbox
